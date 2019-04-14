@@ -4,6 +4,6 @@ title: References and Resources
 permalink: /refs-and-resources
 ---
 
-Please see below resource list maintained in google docs 
+Please see [resource list and notes maintained in google docs](https://docs.google.com/document/d/1kasdE-gO_VjrYemK6WmKstc2oQt4phMdwfUHVMwmbPU/edit#)
 
-{% include iframe.html iframeurl="https://docs.google.com/document/d/1kasdE-gO_VjrYemK6WmKstc2oQt4phMdwfUHVMwmbPU/edit?usp=sharing" height="height:900px" %}
+
