@@ -4,7 +4,6 @@ title: Project Overview
 permalink: /project-overview/
 ---
 
-**Working Title:** 
 # Designing data explorations for visitor engagement and sustainable practices with community gardens.  
 
 ## RQ1
